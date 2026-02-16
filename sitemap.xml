@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://getfreegames.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://getfreegames.github.io/</loc>
+</url>
+<url>
+<loc>https://getfreegames.github.io/ancient-domaines-of-mystery.html</loc>
+<lastmod>2026-02-14T17:34:52+01:00</lastmod>
+<image:image>
+<image:loc>https://getfreegames.github.io/media/posts/1/ADOMScreen11.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://getfreegames.github.io/media/posts/1/ADOMScreen01.png</image:loc>
+<image:title><![CDATA[Screenshot vom ADOM Starbildschirm]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://getfreegames.github.io/datenschutzrichtlinie.html</loc>
+<lastmod>2026-02-16T18:51:12+01:00</lastmod>
+</url>
+<url>
+<loc>https://getfreegames.github.io/glossar.html</loc>
+<lastmod>2026-02-16T18:52:53+01:00</lastmod>
+</url>
+<url>
+<loc>https://getfreegames.github.io/rehtliche-hinweise.html</loc>
+<lastmod>2026-02-16T18:54:34+01:00</lastmod>
+</url>
+</urlset>
